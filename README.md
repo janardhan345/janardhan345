@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @janardhan345
+- 👀 I’m interested in full stack development 
+- 🌱 I’m currently learning JavaScript, React.
+- 📫 How to reach me || janabalu694@gmail.com
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I love to watch anime.
