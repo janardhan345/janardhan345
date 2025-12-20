@@ -1,36 +1,36 @@
-# 👋 Hey there! I'm Janardhan B
+Hey I am Janardhan B | Developer | Engineer 
 
-🎯 Frontend Web Developer | 🎨 UI/UX Designer | 🛠️ Building real-world projects
+## Tech Stack : 
 
-I'm passionate about designing clean, intuitive interfaces and turning them into fully functional web apps. Currently focused on frontend development and sharpening my design thinking through hands-on projects.
+### FE : 
 
----
-## 🚀 Projects I'm Working On
+- JS | React | Tailwind CSS | Bootstrap | Framer | Next.js
 
-- 🔋 **EV Charging Station Website**  
-  A real-world frontend website project showcasing clean UI and mobile responsiveness.  
-  _[Live link coming soon]_
+### BE :
 
-- 📱 **Habit Tracker (Figma)**  
-  A prototype UI/UX case study focusing on habit formation, streaks, and visual motivation.  
-  _[Figma link coming soon]_
+- JS | Node | Flask (Python) | Socket io
 
-- 🛰️ **Satellite GUI**  
-  Dashboard built for a Cansat competition.  
-  _Private repo — screenshots available in portfolio._
+### DB:
 
----
+- SQL, PostgreSQL, Redis
 
-## 🛠 Tech Stack
+### Other languages: 
 
-- **Languages:** HTML, CSS, JavaScript, MySQL  
-- **Tools & Frameworks:** Figma, Bootstrap, Git, React (learning)  
-- **Design:** UI/UX Design, Prototyping, Wireframing, Responsive Design
+- Java
+- C
+- Python
 
----
+### Tools :
 
-## 📫 Let's Connect
+- Git
+- Git actions
+- AWS
+- Figma
 
-- [LinkedIn](https://www.linkedin.com/in/janardhan345/)
+### Things i love to use : 
 
-> ⚡ “Focused on leveling up one project, one pixel, and one commit at a time.”
+- Zed Code Editor
+- Zen Browser
+- Obsidian MD 
+  
+
