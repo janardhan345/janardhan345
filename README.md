@@ -1,36 +1,28 @@
-Hey I am Janardhan B | Developer | Engineer 
+# Hey I am Janardhan B | Developer | Engineer 
 
 ## Tech Stack : 
 
 ### FE : 
 
-- JS | React | Tailwind CSS | Bootstrap | Framer | Next.js
+- JS | React | Tailwind CSS | Bootstrap|  Next.js
 
 ### BE :
 
-- JS | Node | Flask (Python) | Socket io
+- JS | Node | Socket io | Express 
 
 ### DB:
 
-- SQL, PostgreSQL, Redis
+- SQL, PostgreSQL, MongoDB
 
 ### Other languages: 
 
 - Java
 - C
-- Python
 
 ### Tools :
 
 - Git
-- Git actions
-- AWS
 - Figma
-
-### Things i love to use : 
-
-- Zed Code Editor
-- Zen Browser
-- Obsidian MD 
-  
+- Docker
+- Obsidian
 
