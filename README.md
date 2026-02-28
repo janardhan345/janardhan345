@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="131" src="https://static.wikia.nocookie.net/adventuretimesuperfans/images/d/d9/Bmo.gif"  />
+  <img height="170" src="https://static.wikia.nocookie.net/adventuretimesuperfans/images/d/d9/Bmo.gif"  />
 </div>
 
 ###
