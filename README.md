@@ -56,4 +56,4 @@
 
 ###
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=janardhan345&theme=blux&hide_border=true" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=janardhan345&theme=blux&hide_border=true" alt="GitHub Streak" /></a>
