@@ -56,11 +56,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=janardhan345&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janardhan345&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-###
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=janardhan345&theme=blux&hide_border=true" alt="GitHub Streak" /></a>
