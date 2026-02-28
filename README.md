@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm from India<br><br>I’m working on Backend Projects<br><br>In my free time I love to organize things, watch cartoon and love to do Finance ( Estimation, Planning, Risk Analysis and Research )</p>
+<p align="left">I'm from India<br><br>I’m working on Backend Projects<br><br>In my free time I love to Organize things, watch Cartoon and love to do Finance ( Estimation, Planning, Risk Analysis and Research )</p>
 
 ###
 
@@ -57,7 +57,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=janardhan345&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=janardhan345&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janardhan345&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
 
 ###
