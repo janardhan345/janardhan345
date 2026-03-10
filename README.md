@@ -8,11 +8,11 @@
 
 ###
 
-<h3 align="left">Backend Developer | Startup Enthusiast | Linux Lover</h3>
+<h3 align="left">Backend Developer | Software Engineer </h3>
 
 ###
 
-<p align="left">I'm from India<br><br>I’m working on Backend Projects<br><br>In my free time I love to Organize things, watch Cartoon and love to do Finance ( Estimation, Planning, Risk Analysis and Research )</p>
+<p align="left">I'm from India<br><br>I’m working on Backend Projects<br></p>
 
 ###
 
