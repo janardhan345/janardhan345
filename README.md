@@ -8,12 +8,12 @@
 
 ###
 
-<h3 align="left">Backend Developer | Software Engineer</h3><br>
+<h3 align="left">Backend Developer | Software Engineer</h3>
 
 ###
-<h4>⨇ Joined Cansat team and lead the command and data handling subsystem there designed and developed a GUI that receives and visualizes the telemetry using Node.js and Socket.io</h4> <br>
-<h4>⨇ Built a Full stack web application to track faculties using QR sessions and made a admin dashboard only accessible by admin (RBAC) and ensured that only the organization members can access the application (OAuth 2.0 based on domains)</h4> <br>
-<h4>⨇ Developed a API that let users upload, store and filter Images based meta-data usign exif-parser, multer and cloudinary</h4><br>
+<p>⨇ Joined Cansat team and lead the command and data handling subsystem there designed and developed a GUI that receives and visualizes the telemetry using Node.js and Socket.io</p>
+<p>⨇ Built a Full stack web application to track faculties using QR sessions and made a admin dashboard only accessible by admin (RBAC) and ensured that only the organization members can access the application (OAuth 2.0 based on domains)</p>
+<p>⨇ Developed a API that let users upload, store and filter Images based meta-data usign exif-parser, multer and cloudinary</p>
 
 ###
 
