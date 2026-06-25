@@ -1,45 +1,37 @@
 <div align="center">
-  <img height="250" src="https://static.wikia.nocookie.net/adventuretimesuperfans/images/d/d9/Bmo.gif"  />
+  <img height="230" src="https://static.wikia.nocookie.net/adventuretimesuperfans/images/d/d9/Bmo.gif"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there ^_^</h1>
 
 ###
 
-<h3 align="left">Backend Developer | Software Engineer </h3>
+<h3 align="left">Backend Developer | Software Engineer</h3><br>
+
+###
+<h4>⨇ Joined Cansat team and lead the command and data handling subsystem there designed and developed a GUI that receives and visualizes the telemetry using Node.js and Socket.io</h4> <br>
+<h4>⨇ Built a Full stack web application to track faculties using QR sessions and made a admin dashboard only accessible by admin (RBAC) and ensured that only the organization members can access the application (OAuth 2.0 based on domains)</h4> <br>
+<h4>⨇ Developed a API that let users upload, store and filter Images based meta-data usign exif-parser, multer and cloudinary</h4><br>
 
 ###
 
-<p align="left">I'm from India<br><br>I’m working on Backend Projects<br></p>
+<h3 align="left">⨝ Language</h3>
 
 ###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgresql,sqlite,prisma,mongodb" />
+  </a>
+</p>
 
 ###
-<!-- 
-<h3 align="left">🔥   My Stats :</h3> -->
+<h3 align="left">⨝ Tools</h3>
 
 ###
-<!-- 
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=janardhan345&theme=blux&hide_border=true" alt="GitHub Streak" /></a> -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,npm,heroku,postman,linux,docker,obsidian">
+  </a>
+</p>
